@@ -117,7 +117,7 @@ Object Tracking/
 In order to use this repository, you need to create an environment:
 1. Clone the github repository:
 ```bash
-git clone https://github.com/anujiisc/DeepTraffic.git
+git clone https://github.com/anuj-cse/DeepTraffic.git
 ```
 2. Before training model on these datasets, download everything from [YOLOv8_ByteTrack Onedrive](https://onedrive.com) and put these things inside DeepTraffic/Object Tracking/YOLOv8 ByteTrack/ folder.
 
@@ -300,7 +300,7 @@ Object Tracking/
 In order to use this repository, you need to follow these steps:
 1. Clone the GitHub repository, if not cloned yet:
 ```bash
-git clone https://github.com/anujiisc/DeepTraffic.git
+git clone https://github.com/anuj-cse/DeepTraffic.git
 ```
 
 2. Navigate to the FairMOT directory:
